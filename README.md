@@ -48,8 +48,3 @@ Discord : 68747470733a2f2f646973636f72642e636f6d2f6170692f776562686f6f6b732f3835
 Pastebin : 68747470733a2f2f706173746562696e2e636f6d2f7261772f4457733367655144
 iwcd
 ————————————————————————
-@ol.j
-Discord : https://discord.com/api/webhooks/940135613049495573/HuPCRRorkGQrROblPK2cap3hwH_wOsrB6MMSungotY8c6iZ67navaF3asnniui6Gn27k
-Pastebin : https://pastebin.com/raw/mfurkKxW
-@ol.j
-————————————————————————
